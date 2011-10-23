@@ -1,1 +1,3 @@
 Processing sketches in Python using processing.py
+
+java -jar processing-py.jar objects.py
